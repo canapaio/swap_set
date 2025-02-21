@@ -18,4 +18,4 @@ per usarlo scrivere:
 >$ sudo ./swap.sh 32 # per impostare lo swap file a 32gb ed abilitarlo in fstab
 
 ## AVVISO IMPORTANTISSIMO:
-    Se il tuo computer dovesse scappare e decidere di prendersi una vacanza spontanea, ricorda che è tutta colpa sua. Non cachi il mio cazzo per le eventualità impreviste!
+Se il tuo computer dovesse scappare e decidere di prendersi una vacanza spontanea, ricorda che è tutta colpa sua. Non cachi il mio cazzo per le eventualità impreviste!
