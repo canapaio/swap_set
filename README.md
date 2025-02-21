@@ -19,3 +19,5 @@ per usarlo scrivere:
 
 ## AVVISO IMPORTANTISSIMO:
 Se il tuo computer dovesse scappare e decidere di prendersi una vacanza spontanea, ricorda che è tutta colpa sua. Non cachi il mio cazzo per le eventualità impreviste!
+
+PS (l'ho testato sul mio pc linux server 22.04 e stranemaente ha funzionato, non ci posso credere)
